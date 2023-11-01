@@ -1,6 +1,3 @@
-# nlp-datasets
-These datasets are created by Kimola team to help our users have a great trial experience.
-
 # Kimola Cognitive NLP Datasets
 These refined datasets are prepared by Kimola’s analysts to help you start and onboard to use Kimola Cognitive, a customer feedback analysis platform for dataholics, marketing and research professionals.
 
