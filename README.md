@@ -14,3 +14,7 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 
 ## Contribution
 We will be adding new datasets here and we’d love to see the contribution of dataholics. 
+
+| Dataset  | Supported Languages |
+| ------------- | ------------- |
+| Tripadvisor, Customer Reviews  | Giolitti - Ice Cream Shop in Rome, British Museum - Historical Attraction, Topkapi Palace - Historical Attraction  |
