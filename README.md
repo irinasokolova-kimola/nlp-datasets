@@ -17,4 +17,11 @@ We will be adding new datasets here and we’d love to see the contribution of d
 
 | Dataset  | Supported Languages |
 | ------------- | ------------- |
-| Tripadvisor Customer Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Tripadvisor Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Google Maps Reviews  | Planet13 - Cannabis Store in LA<br>Eiffel Tower - Historical Attraction<br>Borsalino - Hat Boutique in Milan<br>Disneyland - Theme Park<br>Walmart - Retail Company<br>Lego Store - Toy Company<br>Carita - Beauty Salon in Paris<br>  |
+| Amazon.com Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Trustpilot Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| App Store Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Play Store Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| G2.com Customer Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+
