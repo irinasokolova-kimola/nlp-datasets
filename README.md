@@ -17,4 +17,4 @@ We will be adding new datasets here and we’d love to see the contribution of d
 
 | Dataset  | Supported Languages |
 | ------------- | ------------- |
-| Tripadvisor, Customer Reviews  | Giolitti - Ice Cream Shop in Rome, British Museum - Historical Attraction, Topkapi Palace - Historical Attraction  |
+| Tripadvisor Customer Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum <br> Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
