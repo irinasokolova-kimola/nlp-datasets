@@ -11,9 +11,6 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 ## Datasets By Channels
  All of the datasets are obtained from various web channels, see them below. 
 
- | Dataset  | Channels |
-| ------------- | ------------- |
-| [Tripadvisor Customer Reviews](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/automotive/)  | [Giolitti - Ice Cream Shop in Rome] (https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-english.xlsx),[British Museum - Historical Attraction] (https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-french.xlsx),[Topkapi Palace - Historical Attraction](https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-german.xlsx) |
 
 ## Contribution
 We will be adding new datasets here and we’d love to see the contribution of dataholics. 
