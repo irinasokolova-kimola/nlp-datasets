@@ -19,9 +19,9 @@ We will be adding new datasets here and we’d love to see the contribution of d
 | ------------- | ------------- |
 | Tripadvisor Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
 | Google Maps Reviews  | Planet13 - Cannabis Store in LA<br>Eiffel Tower - Historical Attraction<br>Borsalino - Hat Boutique in Milan<br>Disneyland - Theme Park<br>Walmart - Retail Company<br>Lego Store - Toy Company<br>Carita - Beauty Salon in Paris<br>  |
-| Amazon.com Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
-| Trustpilot Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
-| App Store Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
-| Play Store Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
-| G2.com Customer Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Amazon.com Reviews  | Huggies - Baby Wipes <br>Nike Air Jordan - Sports shoes <br>Samsonite - Luggage Company <br>Dior Sauvage - Perfume <br>Apple Magic Mouse -Electronics <br>  |
+| Trustpilot Reviews  | United Airlines - Airline Company |
+| App Store Reviews  | Netflix - IPTV App <br> Calm - Meditation App <br>  |
+| Play Store Reviews  | Subway Surfers - Gaming App <br> Candy Crush - Gaming App <br> Spotify - Streaming App <br> |
+| G2.com Customer Reviews  | Hubspot - SaaS Company  |
 
