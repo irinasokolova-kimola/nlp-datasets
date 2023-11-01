@@ -11,10 +11,6 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 ## Datasets By Channels
  All of the datasets are obtained from various web channels, see them below. 
 
-
-## Contribution
-We will be adding new datasets here and we’d love to see the contribution of dataholics. 
-
 | Dataset  | Supported Languages |
 | ------------- | ------------- |
 | Tripadvisor Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
@@ -24,4 +20,7 @@ We will be adding new datasets here and we’d love to see the contribution of d
 | App Store Reviews  | Netflix - IPTV App <br> Calm - Meditation App <br>  |
 | Play Store Reviews  | Subway Surfers - Gaming App <br> Candy Crush - Gaming App <br> Spotify - Streaming App <br> |
 | G2.com Customer Reviews  | Hubspot - SaaS Company  |
+
+## Contribution
+We will be adding new datasets here and we’d love to see the contribution of dataholics. 
 
