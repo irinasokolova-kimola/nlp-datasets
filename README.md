@@ -10,7 +10,7 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 
 | Dataset  | Supported Languages |
 | ------------- | ------------- |
-| Tripadvisor Reviews  | Giolitti - Ice Cream Shop in Rome <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
+| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://github.com/Kimola/nlp-datasets/blob/main/Giolitti%20(Ice%20Cream%20Shop%20in%20Rome)%20-%20Tripadvisor%20Customer%20Reviews.xlsx/) <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
 | Google Maps Reviews  | Planet13 - Cannabis Store in LA<br>Eiffel Tower - Historical Attraction<br>Borsalino - Hat Boutique in Milan<br>Disneyland - Theme Park<br>Walmart - Retail Company<br>Lego Store - Toy Company<br>Carita - Beauty Salon in Paris<br>  |
 | Amazon.com Reviews  | Huggies - Baby Wipes <br>Nike Air Jordan - Sports shoes <br>Samsonite - Luggage Company <br>Dior Sauvage - Perfume <br>Apple Magic Mouse -Electronics <br>  |
 | Trustpilot Reviews  | United Airlines - Airline Company |
