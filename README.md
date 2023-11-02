@@ -10,8 +10,7 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 
 | Channel  | Dataset |
 | ------------- | ------------- |
-| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://www.example.com/giolitti)<br>
-[British Museum - Historical Attraction](https://www.example.com/british-museum)<br>
+| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://www.example.com/giolitti)<br>[British Museum - Historical Attraction](https://www.example.com/british-museum)<br>
 [Topkapi Palace - Historical Attraction](https://www.example.com/topkapi-palace)<br> |
 | Google Maps Reviews  | [Planet13 - Cannabis Store in LA](https://www.example.com/planet13)<br> [Eiffel Tower - Historical Attraction](https://www.example.com/eiffel-tower)<br>[Borsalino - Hat Boutique in Milan](https://www.example.com/borsalino)<br>[Disneyland - Theme Park](https://www.example.com/disneyland)<br>[Walmart - Retail Company](https://www.example.com/walmart)<br>[Lego Store - Toy Company](https://www.example.com/lego-store)<br>[Carita - Beauty Salon in Paris](https://www.example.com/carita)<br> |
 | Amazon.com Reviews  | [Huggies - Baby Wipes](https://www.example.com/huggies)<br>[Nike Air Jordan - Sports shoes](https://www.example.com/nike-air-jordan)<br>[Samsonite - Luggage Company](https://www.example.com/samsonite)<br>[Dior Sauvage - Perfume](https://www.example.com/dior-sauvage)<br>[Apple Magic Mouse -Electronics](https://www.example.com/apple-magic-mouse)<br> |
