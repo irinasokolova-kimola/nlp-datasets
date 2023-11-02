@@ -8,15 +8,31 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 ## Datasets by Channels
  All of the datasets are obtained from various web channels, see them below. 
 
-| Dataset  | Supported Languages |
+| Channel  | Dataset |
 | ------------- | ------------- |
-| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://github.com/Kimola/nlp-datasets/blob/main/Giolitti%20(Ice%20Cream%20Shop%20in%20Rome)%20-%20Tripadvisor%20Customer%20Reviews.xlsx/) <br> British Museum Historical Attraction  <br> Topkapi Palace - Historical Attraction  |
-| Google Maps Reviews  | Planet13 - Cannabis Store in LA<br>Eiffel Tower - Historical Attraction<br>Borsalino - Hat Boutique in Milan<br>Disneyland - Theme Park<br>Walmart - Retail Company<br>Lego Store - Toy Company<br>Carita - Beauty Salon in Paris<br>  |
-| Amazon.com Reviews  | Huggies - Baby Wipes <br>Nike Air Jordan - Sports shoes <br>Samsonite - Luggage Company <br>Dior Sauvage - Perfume <br>Apple Magic Mouse -Electronics <br>  |
-| Trustpilot Reviews  | United Airlines - Airline Company |
-| App Store Reviews  | Netflix - IPTV App <br> Calm - Meditation App <br>  |
-| Play Store Reviews  | Subway Surfers - Gaming App <br> Candy Crush - Gaming App <br> Spotify - Streaming App <br> |
-| G2.com Customer Reviews  | Hubspot - SaaS Company  |
+| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://www.example.com/giolitti)<br>
+[British Museum - Historical Attraction](https://www.example.com/british-museum)<br>
+[Topkapi Palace - Historical Attraction](https://www.example.com/topkapi-palace)<br> |
+| Google Maps Reviews  | [Planet13 - Cannabis Store in LA](https://www.example.com/planet13)<br> 
+[Eiffel Tower - Historical Attraction](https://www.example.com/eiffel-tower)<br>
+[Borsalino - Hat Boutique in Milan](https://www.example.com/borsalino)<br>
+[Disneyland - Theme Park](https://www.example.com/disneyland)<br>
+[Walmart - Retail Company](https://www.example.com/walmart)<br>
+[Lego Store - Toy Company](https://www.example.com/lego-store)<br>
+[Carita - Beauty Salon in Paris](https://www.example.com/carita)<br> |
+| Amazon.com Reviews  | [Huggies - Baby Wipes](https://www.example.com/huggies)<br>
+[Nike Air Jordan - Sports shoes](https://www.example.com/nike-air-jordan)<br>
+[Samsonite - Luggage Company](https://www.example.com/samsonite)<br>
+[Dior Sauvage - Perfume](https://www.example.com/dior-sauvage)<br>
+[Apple Magic Mouse -Electronics](https://www.example.com/apple-magic-mouse)<br> |
+| Trustpilot Reviews  | [United Airlines - Airline Company](https://www.example.com/united-airlines)<br> |
+| App Store Reviews  | [Netflix - IPTV App](https://www.example.com/netflix)<br>
+[Calm - Meditation App](https://www.example.com/calm)<br> |
+| Play Store Reviews  | [Subway Surfers - Gaming App](https://www.example.com/subway-surfers)<br>
+[Candy Crush - Gaming App](https://www.example.com/candy-crush)<br>
+[Spotify - Streaming App](https://www.example.com/spotify)<br> |
+| G2.com Customer Reviews  | [Hubspot - SaaS Company](https://www.example.com/hubspot)<br> |
+
 
 ## Contribution
 We will be adding new datasets here and we’d love to see the contribution of dataholics. 
