@@ -18,6 +18,8 @@ We have collected multilingual customer reviews with Kimola's [Airset Generator 
 | Play Store Reviews  | [Subway Surfers - Gaming App](https://github.com/Kimola/nlp-datasets/blob/main/Subway%20Surfers%20(Mobile%20Game)%20-%20Play%20Store%20Customer%20Reviews.xlsx)<br>[Candy Crush - Gaming App](https://github.com/Kimola/nlp-datasets/blob/main/Candy%20Crush%20(Mobile%20Game)%20-%20Play%20Store%20Customer%20Reviews.xlsx)<br>[Spotify - Streaming App](https://github.com/Kimola/nlp-datasets/blob/main/Spotify%20(Streaming%20App)%20Play%20Store%20Customer%20Reviews.xlsx)<br> |
 | G2.com Customer Reviews  | [Hubspot - SaaS Company](https://github.com/Kimola/nlp-datasets/blob/main/Hubspot%20(SaaS%20Company)%20-%20G2.com%20Customer%20Reviews.xlsx)<br> |
 
+## Analyzing Datasets
+Kimola Cognitive helps marketing and research professionals to analyze customer feedback that are gathered across web. Even they are reviews on Trustpilot or on Amazon, you can scrape and analyze reviews by only dragging and dropping an excel file. [Kimola Cognitive ](https://kimola.com/cognitive) offers 7-day free trial and these datasets are here to help to dataholics who don't have a dataset yet.
 
 ## Contribution
 We will be adding new datasets here and we’d love to see the contribution of dataholics. 
