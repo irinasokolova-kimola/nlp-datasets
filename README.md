@@ -23,7 +23,7 @@ We wanted to show the value of customer feedback analysis in many different busi
 Marketing and research professionals can create a 7-day free [Kimola Cognitive](https://kimola.com/cognitive) account to upload these dataset files to automatically get **NPS**, **sentiment analysis**, **content classifications** and **summaries**. Also, each file can be analysed with a local machine-learning model.
 
 ### 1. Local Analysis
-Download the dataset(s) of interest and use them for local analysis, research, or training [NLP](https://kimola.com/cognitive/resources/definition-of-natural-language-processing-nlp-and-its-applications) models. The CSV format ensures compatibility with a variety of data analysis tools and programming languages.
+Download the dataset(s) of interest and use them for local analysis, research, or training [NLP](https://kimola.com/cognitive/resources/use-cases-and-benefits-of-natural-language-processing-nlp) models. The CSV format ensures compatibility with a variety of data analysis tools and programming languages.
 
 ### 2. Kimola Cognitive
 For a more seamless and advanced analysis experience, you can drag and drop these files to [Kimola Cognitive](https://kimola.com/cognitive). Kimola Cognitive allows users to upload any custom dataset file and gain actionable insights through advanced AI analytics. To get started, sign up for a **7-day free trial** on the [Kimola](https://kimola.com) website and upload your chosen dataset to unlock the full potential of customer feedback analysis.
