@@ -11,13 +11,13 @@ While structuring the data -as we know that there are different consumer behavio
 
 We wanted to show the value of customer feedback analysis in many different business areas, which is why you will find a dataset files for businesses like 🍦 [Giolitti (Ice Cream Shop in Rome)](/kimola/nlp-datasets/blob/main/google-business-reviews/Borsalino%20(Hat%20Boutique%20in%20Milan)%20-%20Google%20Business%20Reviews.csv), 💅 [Carita (Beauty Salon in Paris)](/kimola/nlp-datasets/blob/main/google-business-reviews/Carita%20(Beauty%20Salon%20in%20Paris)%20-%20Google%20Business%20Reviews.csv), 🏋️ [AbsoluteYou (Fitness Center in Singapore)](/kimola/nlp-datasets/blob/main/google-business-reviews/AbsoluteYou%20(Fitness%20Center%20in%20Singapore)%20-%20Google%20Business%20Reviews.csv) and 🎩 [Borsalino (Hat Boutique in Milan)](/kimola/nlp-datasets/blob/main/google-business-reviews/Borsalino%20(Hat%20Boutique%20in%20Milan)%20-%20Google%20Business%20Reviews.csv).
 
-[Amazon Reviews](/kimola/nlp-datasets/tree/main/amazon-product-reviews)<br>
-[Google Business Reviews](/kimola/nlp-datasets/tree/main/google-business-reviews)<br>
-[Trustpilot Reviews](/kimola/nlp-datasets/tree/main/trustpilot-reviews)<br>
-[Tripadvisor Reviews](/kimola/nlp-datasets/tree/main/tripadvisor-reviews)<br>
-[Google Play Reviews](/kimola/nlp-datasets/tree/main/google-play-reviews)<br>
-[App Store Reviews](/kimola/nlp-datasets/tree/main/app-store-reviews)<br>
-[G2 Reviews](/kimola/nlp-datasets/tree/main/g2-reviews)<br>
+[Amazon Reviews](https://github.com/kimola/nlp-datasets/tree/main/amazon-product-reviews)<br>
+[Google Business Reviews](https://github.com/kimola/nlp-datasets/tree/main/google-business-reviews)<br>
+[Trustpilot Reviews](https://github.com/kimola/nlp-datasets/tree/main/trustpilot-reviews)<br>
+[Tripadvisor Reviews](https://github.com/kimola/nlp-datasets/tree/main/tripadvisor-reviews)<br>
+[Google Play Reviews](https://github.com/kimola/nlp-datasets/tree/main/google-play-reviews)<br>
+[App Store Reviews](https://github.com/kimola/nlp-datasets/tree/main/app-store-reviews)<br>
+[G2 Reviews](https://github.com/kimola/nlp-datasets/tree/main/g2-reviews)<br>
 
 ## Usage
 Marketing and research professionals can create a 7-day free [Kimola Cognitive](https://kimola.com/cognitive) account to upload these dataset files to automatically get **NPS**, **sentiment analysis**, **content classifications** and **summaries**. Also, each file can be analysed with a local machine-learning model.
