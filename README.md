@@ -18,13 +18,13 @@ While structuring the data -as we know that there are different consumer behavio
 [G2 Reviews](/kimola/nlp-datasets/tree/main/g2-reviews)<br>
 
 ## Usage
-Marketing and research professionals can create a 7-day free **Kimola Cognitive** account to upload these dataset files to automatically get **NPS**, **sentiment analysis**, **content classifications** and **summaries**. Also, each file can be analysed with a local machine-learning model.
+Marketing and research professionals can create a 7-day free [Kimola Cognitive](https://kimola.com/cognitive) account to upload these dataset files to automatically get **NPS**, **sentiment analysis**, **content classifications** and **summaries**. Also, each file can be analysed with a local machine-learning model.
 
 ### 1. Local Analysis
 Download the dataset(s) of interest and use them for local analysis, research, or training [NLP](https://kimola.com/cognitive/resources/definition-of-natural-language-processing-nlp-and-its-applications) models. The CSV format ensures compatibility with a variety of data analysis tools and programming languages.
 
 ### 2. Kimola Cognitive
-For a more seamless and advanced analysis experience, you can drag and drop these files to [Kimola Cognitive](https://kimola.com/cognitive). Kimola Cognitive allows users to upload any custom dataset file and gain actionable insights through advanced AI analytics. To get started, sign up for a **7-day free trial** on the Kimola website and upload your chosen dataset to unlock the full potential of customer feedback analysis.
+For a more seamless and advanced analysis experience, you can drag and drop these files to [Kimola Cognitive](https://kimola.com/cognitive). Kimola Cognitive allows users to upload any custom dataset file and gain actionable insights through advanced AI analytics. To get started, sign up for a **7-day free trial** on the [Kimola](https://kimola.com) website and upload your chosen dataset to unlock the full potential of customer feedback analysis.
 
 ## Contributing
 We will be adding new dataset files here so marketing and research professionals can experience working with customer feedback in different verticals. Also, if you create new ones by using [Airset Generator](https://chromewebstore.google.com/detail/airset-generator/gejjhbmdieaablhpbpmejjchiidmedmn) or improvements to existing ones, please share. We’d love to see the contribution of our community, aka dataholics.
