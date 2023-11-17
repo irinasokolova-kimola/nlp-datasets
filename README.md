@@ -1,26 +1,35 @@
-# Kimola Cognitive NLP Datasets
-These refined datasets are prepared by Kimola’s analysts to help you start and onboard to use Kimola Cognitive, a customer feedback analysis platform for dataholics, marketing and research professionals.
+# NLP Datasets
+Welcome to the NLP Datasets repository of customer feedback collected from various platforms on the Internet!
 
-## Datasets (English, Multilang)
-We have collected multilingual customer reviews with Kimola's [Airset Generator Browser Extension ](https://chrome.google.com/webstore/detail/airset-generator/gejjhbmdieaablhpbpmejjchiidmedmn) from various channels (Trustpilot, Tripadvisor, Google Maps, Amazon.com, Play Store and App Store) While structuring the data -as we know that there are different consumer behaviors and different feedbacks in every business - we named the conversations by the name of the product/company, business type and the channel we scraped the reviews. Each excel file has 50-250 rows of customer reviews. We have also cleaned the data considering length of the reviews to help you get a better analysis.
+## Overview
+This repository contains a variety of customer feedback datasets, making it a convenient source for those working with Natural Language Processing (NLP) datasets. Each dataset file contains customer feedback from different industries, products and services. These datasets can be used individually or combined to create a larger dataset.
 
+## Contents
+This collection of datasets in CSV format is a valuable resource for marketing and research professionals looking to leverage customer feedback analysis in their businesses. Customer feedback data is collected from platforms like Google Business, Amazon, Trustpilot, Tripadvisor, App Store, and Google Play.
 
-## Datasets by Channels
- All of the datasets are obtained from various web channels, see them below. 
+While structuring the data -as we know that there are different consumer behaviors and different feedbacks in every business - we named the conversations by the name of the product/company, business type and the channel we scraped the reviews. Each CSV file has 50-250 rows of customer feedback in mostly English. Remember that you will get some reviews in different languages by the nature of these platforms. We have also cleaned the data considering the length of the reviews to help you get a better analysis.
 
 | Channel  | Dataset |
 | ------------- | ------------- |
-| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome](https://github.com/Kimola/nlp-datasets/blob/main/Giolitti%20(Ice%20Cream%20Shop%20in%20Rome)%20-%20Tripadvisor%20Customer%20Reviews.xlsx)<br>[British Museum - Historical Attraction](https://github.com/Kimola/nlp-datasets/blob/main/British%20Museum%20(Attraction)%20-%20Tripadvisor%20Customer%20Reviews.xlsx)<br>[Topkapi Palace - Historical Attraction](https://github.com/Kimola/nlp-datasets/blob/main/Topkapi%20Palace%20(Attraction%20in%20Istanbul)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br> |
-| Google Maps Reviews  | [Planet13 - Cannabis Store in LA](https://github.com/Kimola/nlp-datasets/blob/main/Planet13%20(Cannabis%20Store%20in%20LA)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br> [Eiffel Tower - Historical Attraction](https://github.com/Kimola/nlp-datasets/blob/main/Eiffel%20Tower%20(Attraction)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br>[Borsalino - Hat Boutique in Milan](https://github.com/Kimola/nlp-datasets/blob/main/Borsalino%20(Hat%20Boutique%20in%20Milan)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br>[Disneyland - Theme Park](https://github.com/Kimola/nlp-datasets/blob/main/Disneyland%20(Theme%20Park)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br>[Walmart - Retail Company](https://github.com/Kimola/nlp-datasets/blob/main/Walmart%20(Retail%20Company)%20-%20Google%20Maps%20Reviews.xlsx)<br>[Lego Store - Toy Company](https://github.com/Kimola/nlp-datasets/blob/main/LEGO%20Store%20(Toy%20Company)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br>[Carita - Beauty Salon in Paris](https://github.com/Kimola/nlp-datasets/blob/main/Carita%20(Beauty%20Salon%20in%20Paris)%20-%20Google%20Maps%20Customer%20Reviews.xlsx)<br> |
-| Amazon.com Reviews  | [Huggies - Baby Wipes](https://github.com/Kimola/nlp-datasets/blob/main/Huggies%20(Baby%20Wipes)%20-%20Amazon.com%20Customer%20Reviews%20-%20English.xlsx)<br>[Nike Air Jordan - Sports shoes](https://github.com/Kimola/nlp-datasets/blob/main/Nike%2C%20Air%20Jordan%20(Sports%20shoes)%20-%20Amazon.com%20Customer%20Reviews.xlsx)<br>[Samsonite - Luggage Company](https://github.com/Kimola/nlp-datasets/blob/main/Samsonite%20(Luggage)%20-%20Amazon.com%20Customer-Reviews.xlsx)<br>[Dior Sauvage - Perfume](https://github.com/Kimola/nlp-datasets/blob/main/Dior%20Sauvage%20(Perfume)%20-%20Amazon.com%20Customer%20Reviews.xlsx)<br>[Apple Magic Mouse -Electronics](https://github.com/Kimola/nlp-datasets/blob/main/Apple%20Magic%20Mouse%20(Technology)%20-%20Amazon.com%20Customer%20Reviews%20-%20English.xlsx)<br> |
-| Trustpilot Reviews  | [United Airlines - Airline Company](https://github.com/Kimola/nlp-datasets/blob/main/United%20Airlines%20(Airline%20Company)%20-%20Trustpilot%20Customer%20Reviews.xlsx)<br> |
-| App Store Reviews  | [Netflix - IPTV App](https://github.com/Kimola/nlp-datasets/blob/main/Netflix%20(IPTV)%20-%20AppStore%20Customer%20Reviews.xlsx)<br>[Calm - Meditation App](https://github.com/Kimola/nlp-datasets/blob/main/Calm%20(Meditation%20App)%20AppStore%20Customer%20Reviews.xlsx)<br> |
-| Play Store Reviews  | [Subway Surfers - Gaming App](https://github.com/Kimola/nlp-datasets/blob/main/Subway%20Surfers%20(Mobile%20Game)%20-%20Play%20Store%20Customer%20Reviews.xlsx)<br>[Candy Crush - Gaming App](https://github.com/Kimola/nlp-datasets/blob/main/Candy%20Crush%20(Mobile%20Game)%20-%20Play%20Store%20Customer%20Reviews.xlsx)<br>[Spotify - Streaming App](https://github.com/Kimola/nlp-datasets/blob/main/Spotify%20(Streaming%20App)%20Play%20Store%20Customer%20Reviews.xlsx)<br> |
-| G2.com Customer Reviews  | [Hubspot - SaaS Company](https://github.com/Kimola/nlp-datasets/blob/main/Hubspot%20(SaaS%20Company)%20-%20G2.com%20Customer%20Reviews.xlsx)<br> |
+| Tripadvisor Reviews  | [Giolitti - Ice Cream Shop in Rome]()<br>[British Museum - Historical Attraction]()<br>[Topkapi Palace - Historical Attraction]()<br> |
+| Google Maps Reviews  | [Planet13 - Cannabis Store in LA]()<br> [Eiffel Tower - Historical Attraction]()<br>[Borsalino - Hat Boutique in Milan]()<br>[Disneyland - Theme Park]()<br>[Walmart - Retail Company]()<br>[Lego Store - Toy Company]()<br>[Carita - Beauty Salon in Paris]()<br> |
+| Amazon.com Reviews  | [Huggies - Baby Wipes]()<br>[Nike Air Jordan - Sports shoes]()<br>[Samsonite - Luggage Company]()<br>[Dior Sauvage - Perfume]()<br>[Apple Magic Mouse -Electronics]()<br> |
+| Trustpilot Reviews  | [United Airlines - Airline Company]()<br> |
+| App Store Reviews  | [Netflix - IPTV App]()<br>[Calm - Meditation App]()<br> |
+| Play Store Reviews  | [Subway Surfers - Gaming App]()<br>[Candy Crush - Gaming App]()<br>[Spotify - Streaming App]()<br> |
+| G2.com Customer Reviews  | [Hubspot - SaaS Company]()<br> |
 
-## Analyzing Datasets
-Kimola Cognitive helps marketing and research professionals to analyze customer feedback that are gathered across web. Even they are reviews on Trustpilot or on Amazon, you can scrape and analyze reviews by only dragging and dropping an excel file. [Kimola Cognitive ](https://kimola.com/cognitive) offers 7-day free trial and these datasets are here to help to dataholics who don't have a dataset yet.
+## Usage
+Marketing and research professionals can create a 7-day free Kimola Cognitive account to upload these dataset files to automatically get NPS, sentiment analysis, content classifications and summaries. Also, each file can be analysed with a local machine-learning model.
 
-## Contribution
-We will be adding new datasets here and we’d love to see the contribution of dataholics. 
+### 1. Local Analysis
+Download the dataset(s) of interest and use them for local analysis, research, or training NLP models. The CSV format ensures compatibility with a variety of data analysis tools and programming languages.
 
+### 2. Kimola Cognitive
+For a more seamless and advanced analysis experience, you can drag and drop these files to Kimola Cognitive. Kimola Cognitive allows users to upload any custom dataset file and gain actionable insights through advanced AI analytics. To get started, sign up for a 7-day free trial on the Kimola website and upload your chosen dataset to unlock the full potential of customer feedback analysis.
+
+## Contributing
+We will be adding new dataset files here so marketing and research professionals can experience working with customer feedback in different verticals. Also, if you create new ones by using Airset Generator or improvements to existing ones, please share. We’d love to see the contribution of our community, aka dataholics.
+
+## Contact
+For any inquiries or support related to this repository or any other Kimola product, feel free to contact us.
