@@ -5,7 +5,7 @@ Welcome to the NLP Datasets repository of customer feedback collected from vario
 This repository contains a variety of **customer feedback datasets**, making it a convenient source for those working with [Natural Language Processing (NLP)](https://kimola.com/cognitive/resources/definition-of-natural-language-processing-nlp-and-its-applications) datasets. Each dataset file contains customer feedback from different industries, products and services. These datasets can be used individually or combined to create a larger dataset.
 
 ## Contents
-This collection of datasets in **CSV format** is a valuable resource for marketing and research professionals looking to leverage customer feedback analysis in their businesses. Customer feedback data is collected from platforms like **Google Business**, **Amazon**, **Trustpilot**, **Tripadvisor**, **App Store**, and **Google Play**.
+This collection of datasets in **CSV format** is a valuable resource for marketing and research professionals looking to leverage customer feedback analysis in their businesses. Customer feedback data is collected from platforms like **Amazon**, **Google Business**, **Trustpilot**, **Tripadvisor**, **Google Play**, and **App Store**.
 
 While structuring the data -as we know that there are different consumer behaviors and different feedbacks in every business - we named the conversations by the name of the product/company, business type and the channel we scraped the reviews. Each **CSV file** has **50-250 rows** of customer feedback **mostly in English**. Remember that you will get some reviews in different languages by the nature of these platforms. We have also cleaned the data considering the length of the reviews to help you get a better analysis.
 
